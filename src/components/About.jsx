@@ -4,7 +4,7 @@ export default React.createClass({
   render () {
     return (
       <div className="about">
-        <h4>Welcome to the cobras thesaurus app.</h4>
+        <h4>Welcome to the Cobra's thesaurus app.</h4>
 
         <hr />
         <footer>
